@@ -1,0 +1,14 @@
+.Login{
+  height: 100vh;
+  background-color: #ffffff;
+  width: 50vh;
+  border-radius: 12px;
+  margin-left: 75vh;
+
+}
+body{
+  background-image: url(/static/img/pastel-ombre-background-pink-purple_53876-120750.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
